@@ -1,0 +1,19 @@
+{
+ "name": "A&N Store",
+ "short_name": "A&N",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "dir": "rtl",
+ "lang": "ar",
+ "background_color": "#2a211a",
+ "theme_color": "#2a211a",
+ "icons": [
+  {
+   "src": "icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml",
+   "purpose": "any"
+  }
+ ]
+}
